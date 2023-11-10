@@ -2,7 +2,10 @@
 asyncnostr
 ========
 
-A maintained clone of aionostr
+A maintained clone of aionostr. We are cloning, renaming the original source since the parent appears to have no recent activity. 
+
+Original Upstream Repo is here: https://github.com/davestgermain/aionostr
+
 
 .. image:: https://img.shields.io/pypi/v/aionostr.svg
         :target: https://pypi.python.org/pypi/aionostr
